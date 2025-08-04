@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2433-best-poker-hand](https://github.com/Robinfl2005/practice/tree/master/2433-best-poker-hand) |
+## Math
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Robinfl2005/practice/tree/master/0223-rectangle-area) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Robinfl2005/practice/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->

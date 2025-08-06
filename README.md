@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Robinfl2005/practice/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Robinfl2005/practice/tree/master/0219-contains-duplicate-ii) |
 | [2433-best-poker-hand](https://github.com/Robinfl2005/practice/tree/master/2433-best-poker-hand) |
 | [3790-fruits-into-baskets-ii](https://github.com/Robinfl2005/practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Robinfl2005/practice/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Robinfl2005/practice/tree/master/0219-contains-duplicate-ii) |
 | [2433-best-poker-hand](https://github.com/Robinfl2005/practice/tree/master/2433-best-poker-hand) |
 ## Counting
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Robinfl2005/practice/tree/master/3790-fruits-into-baskets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Robinfl2005/practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

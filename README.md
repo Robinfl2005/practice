@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Robinfl2005/practice/tree/master/0223-rectangle-area) |
+| [0826-soup-servings](https://github.com/Robinfl2005/practice/tree/master/0826-soup-servings) |
 | [1031-add-to-array-form-of-integer](https://github.com/Robinfl2005/practice/tree/master/1031-add-to-array-form-of-integer) |
 ## Geometry
 |  |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/Robinfl2005/practice/tree/master/0541-reverse-string-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Robinfl2005/practice/tree/master/0826-soup-servings) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Robinfl2005/practice/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->

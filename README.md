@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Robinfl2005/practice/tree/master/0826-soup-servings) |
 | [1031-add-to-array-form-of-integer](https://github.com/Robinfl2005/practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1448-maximum-69-number](https://github.com/Robinfl2005/practice/tree/master/1448-maximum-69-number) |
+| [2507-number-of-common-factors](https://github.com/Robinfl2005/practice/tree/master/2507-number-of-common-factors) |
 ## Geometry
 |  |
 | ------- |
@@ -92,8 +93,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Robinfl2005/practice/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/Robinfl2005/practice/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Robinfl2005/practice/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/Robinfl2005/practice/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Robinfl2005/practice/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/Robinfl2005/practice/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Robinfl2005/practice/tree/master/0219-contains-duplicate-ii) |
 | [0932-monotonic-array](https://github.com/Robinfl2005/practice/tree/master/0932-monotonic-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Robinfl2005/practice/tree/master/1031-add-to-array-form-of-integer) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Robinfl2005/practice/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Robinfl2005/practice/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Robinfl2005/practice/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Robinfl2005/practice/tree/master/0826-soup-servings) |
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Robinfl2005/practice/tree/master/1448-maximum-69-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Robinfl2005/practice/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Robinfl2005/practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

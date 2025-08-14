@@ -5,10 +5,14 @@ class Solution {
          int a=0;
         for(int i=0;i<arr.length-2;i++) {
             String s = sb.toString();
-             if(arr[i]==arr[i+1]&&arr[i]==arr[i+2]&&arr[i]>(int)(s.charAt(0)))
+             if(arr[i]==arr[i+1]&&arr[i]==arr[i+2]&&arr[i]>=(int)(s.charAt(0)))
              {a=a+1;
-              sb.delete(0,1);
-              sb.insert(0,arr[i]);
+             if(a==1) {
+             sb.delete(0,1);
+              sb.replace(0,1,""+arr[i]);
+             }
+             else
+              sb.replace(0,1,""+arr[i]);
              }
         }
          int num1=3;
@@ -25,17 +29,11 @@ class Solution {
             }
             else {
                 st++;
-                end++;(
+                end++;
             }
         }*/
-        String fin = "";
-        for(int i=0;i<res.length();i++) {
-            if(i%2==0) {
-                fin+=res.charAt(i);
-            }
-        }
-        if(fin.equals("---"))
+        if(res.equals("-1-1-1"))
         return "";
-        return fin;
+        return res;
     }
 }

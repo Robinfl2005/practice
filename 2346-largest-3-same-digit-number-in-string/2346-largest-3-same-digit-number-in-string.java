@@ -11,7 +11,7 @@ class Solution {
              sb.delete(0,1);
               sb.replace(0,1,""+arr[i]);
              }
-             else
+             
               sb.replace(0,1,""+arr[i]);
              }
         }

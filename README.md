@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Robinfl2005/practice/tree/master/0932-monotonic-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Robinfl2005/practice/tree/master/1031-add-to-array-form-of-integer) |
 | [2433-best-poker-hand](https://github.com/Robinfl2005/practice/tree/master/2433-best-poker-hand) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Robinfl2005/practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Robinfl2005/practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Robinfl2005/practice/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Robinfl2005/practice/tree/master/0219-contains-duplicate-ii) |
 | [2433-best-poker-hand](https://github.com/Robinfl2005/practice/tree/master/2433-best-poker-hand) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Robinfl2005/practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Robinfl2005/practice/tree/master/1448-maximum-69-number) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Robinfl2005/practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Enumeration
 |  |
 | ------- |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Robinfl2005/practice/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/Robinfl2005/practice/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Robinfl2005/practice/tree/master/0219-contains-duplicate-ii) |
 | [0932-monotonic-array](https://github.com/Robinfl2005/practice/tree/master/0932-monotonic-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Robinfl2005/practice/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/Robinfl2005/practice/tree/master/0219-contains-duplicate-ii) |
 | [2433-best-poker-hand](https://github.com/Robinfl2005/practice/tree/master/2433-best-poker-hand) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Robinfl2005/practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -67,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
 | [0541-reverse-string-ii](https://github.com/Robinfl2005/practice/tree/master/0541-reverse-string-ii) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Robinfl2005/practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
 | [0826-soup-servings](https://github.com/Robinfl2005/practice/tree/master/0826-soup-servings) |
 ## Probability and Statistics
 |  |
@@ -106,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Robinfl2005/practice/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/Robinfl2005/practice/tree/master/2507-number-of-common-factors) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

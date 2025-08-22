@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Robinfl2005/practice/tree/master/0932-monotonic-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Robinfl2005/practice/tree/master/1031-add-to-array-form-of-integer) |
 | [2433-best-poker-hand](https://github.com/Robinfl2005/practice/tree/master/2433-best-poker-hand) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Robinfl2005/practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Robinfl2005/practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Robinfl2005/practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
+## Matrix
+|  |
+| ------- |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Robinfl2005/practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 <!---LeetCode Topics End-->

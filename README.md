@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Robinfl2005/practice/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Robinfl2005/practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Robinfl2005/practice/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Robinfl2005/practice/tree/master/0367-valid-perfect-square) |
 | [0826-soup-servings](https://github.com/Robinfl2005/practice/tree/master/0826-soup-servings) |
 | [1031-add-to-array-form-of-integer](https://github.com/Robinfl2005/practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1448-maximum-69-number](https://github.com/Robinfl2005/practice/tree/master/1448-maximum-69-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Robinfl2005/practice/tree/master/0367-valid-perfect-square) |
 | [3790-fruits-into-baskets-ii](https://github.com/Robinfl2005/practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |

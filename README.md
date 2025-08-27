@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Robinfl2005/practice/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/Robinfl2005/practice/tree/master/0219-contains-duplicate-ii) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Robinfl2005/practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2433-best-poker-hand](https://github.com/Robinfl2005/practice/tree/master/2433-best-poker-hand) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Robinfl2005/practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Robinfl2005/practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2433-best-poker-hand](https://github.com/Robinfl2005/practice/tree/master/2433-best-poker-hand) |
 ## Math
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
 | [0541-reverse-string-ii](https://github.com/Robinfl2005/practice/tree/master/0541-reverse-string-ii) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Robinfl2005/practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Robinfl2005/practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Dynamic Programming
 |  |

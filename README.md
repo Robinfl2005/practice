@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Robinfl2005/practice/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/Robinfl2005/practice/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Robinfl2005/practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Robinfl2005/practice/tree/master/0219-contains-duplicate-ii) |
 | [0498-diagonal-traverse](https://github.com/Robinfl2005/practice/tree/master/0498-diagonal-traverse) |
 | [0932-monotonic-array](https://github.com/Robinfl2005/practice/tree/master/0932-monotonic-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Robinfl2005/practice/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/Robinfl2005/practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Robinfl2005/practice/tree/master/0219-contains-duplicate-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Robinfl2005/practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2433-best-poker-hand](https://github.com/Robinfl2005/practice/tree/master/2433-best-poker-hand) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Robinfl2005/practice/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Robinfl2005/practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Robinfl2005/practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

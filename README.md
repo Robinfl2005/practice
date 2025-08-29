@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Robinfl2005/practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1448-maximum-69-number](https://github.com/Robinfl2005/practice/tree/master/1448-maximum-69-number) |
 | [2507-number-of-common-factors](https://github.com/Robinfl2005/practice/tree/master/2507-number-of-common-factors) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Robinfl2005/practice/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Geometry
 |  |
 | ------- |

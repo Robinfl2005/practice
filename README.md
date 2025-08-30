@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Robinfl2005/practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Robinfl2005/practice/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
 | [0541-reverse-string-ii](https://github.com/Robinfl2005/practice/tree/master/0541-reverse-string-ii) |
@@ -147,5 +148,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Robinfl2005/practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Robinfl2005/practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->

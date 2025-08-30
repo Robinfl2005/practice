@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Robinfl2005/practice/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
 | [0541-reverse-string-ii](https://github.com/Robinfl2005/practice/tree/master/0541-reverse-string-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Robinfl2005/practice/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Robinfl2005/practice/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
 | [0826-soup-servings](https://github.com/Robinfl2005/practice/tree/master/0826-soup-servings) |
 ## Probability and Statistics
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Robinfl2005/practice/tree/master/0217-contains-duplicate) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Robinfl2005/practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->

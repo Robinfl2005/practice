@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Robinfl2005/practice/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Robinfl2005/practice/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/Robinfl2005/practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Robinfl2005/practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Robinfl2005/practice/tree/master/0219-contains-duplicate-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Robinfl2005/practice/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Robinfl2005/practice/tree/master/0152-maximum-product-subarray) |
 | [0826-soup-servings](https://github.com/Robinfl2005/practice/tree/master/0826-soup-servings) |
 ## Probability and Statistics
 |  |

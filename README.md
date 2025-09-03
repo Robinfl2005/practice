@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Robinfl2005/practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Robinfl2005/practice/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/Robinfl2005/practice/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Robinfl2005/practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Robinfl2005/practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Robinfl2005/practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Robinfl2005/practice/tree/master/0229-majority-element-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Robinfl2005/practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Robinfl2005/practice/tree/master/0367-valid-perfect-square) |
 | [3790-fruits-into-baskets-ii](https://github.com/Robinfl2005/practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Robinfl2005/practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Robinfl2005/practice/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Robinfl2005/practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Robinfl2005/practice/tree/master/0032-longest-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Robinfl2005/practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

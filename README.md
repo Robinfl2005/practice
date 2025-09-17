@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Robinfl2005/practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Robinfl2005/practice/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2433-best-poker-hand](https://github.com/Robinfl2005/practice/tree/master/2433-best-poker-hand) |
+| [2502-sort-the-people](https://github.com/Robinfl2005/practice/tree/master/2502-sort-the-people) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Robinfl2005/practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Robinfl2005/practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Robinfl2005/practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Robinfl2005/practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Robinfl2005/practice/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2433-best-poker-hand](https://github.com/Robinfl2005/practice/tree/master/2433-best-poker-hand) |
+| [2502-sort-the-people](https://github.com/Robinfl2005/practice/tree/master/2502-sort-the-people) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Robinfl2005/practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Robinfl2005/practice/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Robinfl2005/practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Robinfl2005/practice/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2502-sort-the-people](https://github.com/Robinfl2005/practice/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Robinfl2005/practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Robinfl2005/practice/tree/master/0229-majority-element-ii) |
+| [2502-sort-the-people](https://github.com/Robinfl2005/practice/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |

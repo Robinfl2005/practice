@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Robinfl2005/practice/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2433-best-poker-hand](https://github.com/Robinfl2005/practice/tree/master/2433-best-poker-hand) |
 | [2502-sort-the-people](https://github.com/Robinfl2005/practice/tree/master/2502-sort-the-people) |
+| [2825-minimize-string-length](https://github.com/Robinfl2005/practice/tree/master/2825-minimize-string-length) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Robinfl2005/practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Robinfl2005/practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Robinfl2005/practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2502-sort-the-people](https://github.com/Robinfl2005/practice/tree/master/2502-sort-the-people) |
+| [2825-minimize-string-length](https://github.com/Robinfl2005/practice/tree/master/2825-minimize-string-length) |
 ## Dynamic Programming
 |  |
 | ------- |

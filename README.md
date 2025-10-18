@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Robinfl2005/practice/tree/master/0541-reverse-string-ii) |
 | [0837-most-common-word](https://github.com/Robinfl2005/practice/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Robinfl2005/practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Robinfl2005/practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Robinfl2005/practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2502-sort-the-people](https://github.com/Robinfl2005/practice/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Robinfl2005/practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Robinfl2005/practice/tree/master/0032-longest-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Robinfl2005/practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Prefix Sum
 |  |
 | ------- |

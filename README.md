@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Robinfl2005/practice/tree/master/2502-sort-the-people) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Robinfl2005/practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Robinfl2005/practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Robinfl2005/practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Robinfl2005/practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Robinfl2005/practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-best-poker-hand](https://github.com/Robinfl2005/practice/tree/master/2433-best-poker-hand) |
 | [2502-sort-the-people](https://github.com/Robinfl2005/practice/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/Robinfl2005/practice/tree/master/2825-minimize-string-length) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Robinfl2005/practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Robinfl2005/practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Robinfl2005/practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Robinfl2005/practice/tree/master/0219-contains-duplicate-ii) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Robinfl2005/practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Robinfl2005/practice/tree/master/0209-minimum-size-subarray-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Robinfl2005/practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 <!---LeetCode Topics End-->

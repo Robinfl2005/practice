@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Robinfl2005/practice/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Robinfl2005/practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Robinfl2005/practice/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Robinfl2005/practice/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2433-best-poker-hand](https://github.com/Robinfl2005/practice/tree/master/2433-best-poker-hand) |
 | [2502-sort-the-people](https://github.com/Robinfl2005/practice/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/Robinfl2005/practice/tree/master/2825-minimize-string-length) |
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Robinfl2005/practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+## Linked List
+|  |
+| ------- |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Robinfl2005/practice/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 <!---LeetCode Topics End-->

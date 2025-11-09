@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Robinfl2005/practice/tree/master/0826-soup-servings) |
 | [1031-add-to-array-form-of-integer](https://github.com/Robinfl2005/practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1448-maximum-69-number](https://github.com/Robinfl2005/practice/tree/master/1448-maximum-69-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Robinfl2005/practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2507-number-of-common-factors](https://github.com/Robinfl2005/practice/tree/master/2507-number-of-common-factors) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Robinfl2005/practice/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/Robinfl2005/practice/tree/master/3830-find-closest-person) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Robinfl2005/practice/tree/master/0498-diagonal-traverse) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Robinfl2005/practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Robinfl2005/practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |

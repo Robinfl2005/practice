@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Robinfl2005/practice/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2433-best-poker-hand](https://github.com/Robinfl2005/practice/tree/master/2433-best-poker-hand) |
 | [2502-sort-the-people](https://github.com/Robinfl2005/practice/tree/master/2502-sort-the-people) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Robinfl2005/practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Robinfl2005/practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Robinfl2005/practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Robinfl2005/practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Robinfl2005/practice/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/Robinfl2005/practice/tree/master/2507-number-of-common-factors) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Robinfl2005/practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Robinfl2005/practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Robinfl2005/practice/tree/master/0229-majority-element-ii) |
 | [2502-sort-the-people](https://github.com/Robinfl2005/practice/tree/master/2502-sort-the-people) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Robinfl2005/practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Stack
 |  |
 | ------- |
